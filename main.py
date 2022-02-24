@@ -2,9 +2,9 @@ import requests
 import os
 from datetime import datetime
 
-APP_ID = "dc2ea15b"
-APP_KEY = "09eb27bf25eccc86a8f888490c0ef15e"
-BASIC_TOKEN = "Q2h1dGRhbmFpOmdidnNlcjM1MXZ6eGQzOHI1MQ"
+APP_ID = ""
+APP_KEY = ""
+BASIC_TOKEN = ""
 
 WEIGHT = 73.5
 HEIGHT = 175
